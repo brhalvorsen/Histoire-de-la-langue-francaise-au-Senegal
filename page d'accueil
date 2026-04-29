@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L'Histoire de la langue française au Sénégal</title>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+
+  <body>
+
+    <main>
+      <h1>Welcome to My Website</h1>
+      <p> Le Sénégal présente une situation unique des pays décolonisés : même avec le français comme langue officielle du pays, il n’est maîtrisé que par une minorité de la population et sert principalement de langue administrative. Au quotidien, le coeur linguistique reste aux langues nationales vivantes. </p>
+      <p> Cie site explore comment ce territoire merveilleux, son histoire, et sa culture se sont conjugés pour créer le Sénégal que nous connaissons aujourd’hui. À travers une analyse historique, educative et religieuse, nous examinerons les tensions entre la langue du pouvoir et les langues du peuple. </p>
+      <p> Pour comprendre les complexités de ce multilinguisme au Sénégal, vous êtes invites à explorer les pages suivantes: </p>
+
+      <a href="diversite.html">La Diversité Linguistique au Sénégal</a>
+      <p> Cliquez au dessus pour découvrir la richesse linguistique du pays, et le constraste entre le statut official du français et la domination du wolof comme langue véhiculaire. </p>
+      
+      <a href="education.html">L’Éducation au Sénégal</a>
+      <p> Cliquez au dessus pour analyser les consequences d’un système scolaire historiquement francophone sur l’alphabétisation et les nouvelles réformes vers un enseignement bilingue. </p>
+
+      <a href="islam.html">L’Islam au Sénégal</a>
+      <p> Cliquez au dessus pour explorer comment la religion, l’influence de l’arabe et l’écriture en Ajami ont preserve les cultures locales face à la colonization française. </p>
+
+    </main>
+
+  </body>
+
+</html>
