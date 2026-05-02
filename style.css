@@ -34,13 +34,19 @@ h3 {
   font-family: 'Playfair Display', serif;
   color: #e24949;
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
-h2, h4{
+h4, h5{
   font-family: 'Playfair Display', serif;
   color: #820909;
   text-align: center;
   font-size: 1.5rem;
+}
+h2{
+  font-family: 'Playfair Display', serif;
+  color: #820909;
+  text-align: center;
+  font-size: 2rem;
 }
 
 .section-divider {
