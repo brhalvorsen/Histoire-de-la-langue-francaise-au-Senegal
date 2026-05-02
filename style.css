@@ -31,12 +31,12 @@ h1, h2, h3 {
 }
 
 a {
-  color: #ea9999;
+  color: #e06666;
   text-decoration: underline;
 }
 a:hover,
  a:focus {
-  color: #ea9999;
+  color: #e06666;
   text-decoration: underline;
 }
 
