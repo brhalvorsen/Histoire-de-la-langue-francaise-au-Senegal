@@ -12,8 +12,8 @@
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
-  color: #8F0000;
-  background-color: #F0E4E4;
+  color: #64814C;
+  background-color: #EDF2E9;
   padding: 0 20px;
 }
 
@@ -24,17 +24,17 @@ main {
 
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
-  color: #8F0000;
+  color: #64814C;
   text-align: center;
 }
 
 a {
-  color: #B27272;
+  color: #A8C094;
   text-decoration: none;
 }
 a:hover,
  a:focus {
-  color: #B27272;
+  color: #A8C094;
   text-decoration: underline;
 }
 
