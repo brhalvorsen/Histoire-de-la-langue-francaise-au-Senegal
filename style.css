@@ -12,9 +12,11 @@
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
-  color: #64814C;
+  color: #4E653B;
   background-color: #EDF2E9;
   padding: 0 20px;
+  border-left: 5px solid #fcfbed;
+  border-right: 5px solid #fcfbed;
 }
 
 main {
@@ -24,17 +26,17 @@ main {
 
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
-  color: #64814C;
+  color: #4E653B;
   text-align: center;
 }
 
 a {
-  color: #A8C094;
-  text-decoration: none;
+  color: #7A9D5C;
+  text-decoration: underline;
 }
 a:hover,
  a:focus {
-  color: #A8C094;
+  color: #7A9D5C;
   text-decoration: underline;
 }
 
