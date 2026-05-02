@@ -65,7 +65,7 @@ img {
 .hero-image,
 .card img,
 main img {
-  width: 1000px;
+  width: 500px;
   max-width: 100%;
   height: auto;
 }
