@@ -73,3 +73,9 @@ main img {
   height: auto;
 }
 
+/* Make star icon smaller */
+.star-icon {
+  width: 120px !important;
+  height: auto;
+}
+
