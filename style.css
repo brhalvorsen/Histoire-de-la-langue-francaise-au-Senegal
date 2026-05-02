@@ -13,10 +13,10 @@ body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   color: #820909;
-  background-color: #ffebad;
+  background-color: #ffefbe;
   padding: 0 20px;
-  border-left: 20px solid #6aa84f;
-  border-right: 20px solid #6aa84f;
+  border-left: 20px solid #ea9999;
+  border-right: 20px solid #ea9999;
 }
 
 main {
@@ -31,12 +31,12 @@ h1, h2, h3 {
 }
 
 a {
-  color: #6aa84f;
+  color: #ea9999;
   text-decoration: underline;
 }
 a:hover,
  a:focus {
-  color: #6aa84f;
+  color: #ea9999;
   text-decoration: underline;
 }
 
