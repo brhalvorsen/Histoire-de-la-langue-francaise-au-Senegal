@@ -13,10 +13,10 @@ body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   color: #820909;
-  background-color: #ffefbe;
+  background-color: #ffeeee;
   padding: 0 20px;
-  border-left: 20px solid #ea9999;
-  border-right: 20px solid #ea9999;
+  border-left: 200px solid #ea9999;
+  border-right: 200px solid #ea9999;
 }
 
 main {
