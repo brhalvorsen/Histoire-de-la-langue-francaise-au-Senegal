@@ -12,11 +12,11 @@
 body {
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
-  color: #4E653B;
-  background-color: #EDF2E9;
+  color: #820909;
+  background-color: #ffebad;
   padding: 0 20px;
-  border-left: 5px solid #4E653B;
-  border-right: 5px solid #4E653B;
+  border-left: 20px solid #6aa84f;
+  border-right: 20px solid #6aa84f;
 }
 
 main {
@@ -26,17 +26,17 @@ main {
 
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
-  color: #4E653B;
+  color: #820909;
   text-align: center;
 }
 
 a {
-  color: #7A9D5C;
+  color: #6aa84f;
   text-decoration: underline;
 }
 a:hover,
  a:focus {
-  color: #7A9D5C;
+  color: #6aa84f;
   text-decoration: underline;
 }
 
