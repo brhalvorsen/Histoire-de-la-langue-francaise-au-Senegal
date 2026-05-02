@@ -9,7 +9,7 @@
   box-sizing: border-box;
 }
 
-body, h4 {
+body{
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
   color: #820909;
@@ -35,7 +35,7 @@ h3 {
   color: #e24949;
   text-align: center;
 }
-h2{
+h2, 4{
   font-family: 'Playfair Display', serif;
   color: #820909;
   text-align: center;
