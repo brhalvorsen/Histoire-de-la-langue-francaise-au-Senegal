@@ -19,5 +19,24 @@ body {
 h1, h2, h3 {
   font-family: 'Playfair Display', serif;
   color: #8F0000;
+  text-align: center;
+}
+
+/* Center all images and keep them a consistent width */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  width: 320px;
+  height: auto;
+}
+
+/* Ensure card and page images stay centered and same size */
+.hero-image,
+.card img,
+main img {
+  width: 320px;
+  max-width: 100%;
+  height: auto;
 }
 
