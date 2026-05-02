@@ -24,7 +24,14 @@ main {
   margin: 0 auto;
 }
 
-h1, h3 {
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 3rem;
+  color: #e24949;
+  text-align: center;
+  margin: 0.5em 0;
+}
+h3 {
   font-family: 'Playfair Display', serif;
   color: #e24949;
   text-align: center;
