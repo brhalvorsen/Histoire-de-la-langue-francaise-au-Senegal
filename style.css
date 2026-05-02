@@ -54,7 +54,7 @@ a:hover,
 /* Center all images and keep them a consistent width */
 img {
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
   max-width: 100%;
   width: 800px;
   height: auto;
@@ -65,7 +65,7 @@ img {
 .card img,
 main img {
   display: block;
-  margin: 0 auto;
+  margin: 20px auto;
   width: 500px;
   max-width: 100%;
   height: auto;
